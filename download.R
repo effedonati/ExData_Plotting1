@@ -25,4 +25,17 @@ read_dataset<-function(){
 plot1<-function(){
     x<-read_dataset()
     hist(x$Global_active_power,col="red",main="Global Active Power",xlab="Global Active Power (kilowatts)")
+    png(file = "plot1.png",width = 480, height = 480)
+    hist(x$Global_active_power,col="red",main="Global Active Power",xlab="Global Active Power (kilowatts)")
+    #    dev.copy(png, file = "plot1.png") 
+    dev.off()
+}
+
+plot2<-function(){
+  x<-read_dataset()
+  hist(x$Global_active_power,col="red",main="Global Active Power",xlab="Global Active Power (kilowatts)")
+  png(file = "plot1.png",width = 480, height = 480)
+  hist(x$Global_active_power,col="red",main="Global Active Power",xlab="Global Active Power (kilowatts)")
+  #    dev.copy(png, file = "plot1.png") 
+  dev.off()
 }
