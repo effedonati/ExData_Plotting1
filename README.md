@@ -80,39 +80,19 @@ Below are the original plot images given (on the left) and my plots (on the righ
 
 ### Plot 2
 
-<table border=1>
-<tr>
-<th>Plot 2 given</th>
-<th>my Plot 2</th>
-</tr>
-<tr>
-<td>![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png)</td> 
-<td>![my plot 2](plot2.png)</td>
-</tr>
-</table>
+| Plot 2 given | my Plot 2 |
+| ---------------- | -------------|
+| ![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) | ![my plot 2](plot2.png) |
+
 ### Plot 3
 
-<table border=1>
-<tr>
-<th>Plot 3 given</th>
-<th>my Plot 3</th>
-</tr>
-<tr>
-<td>![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png)</td> 
-<td>![my plot 3](plot3.png)</td>
-</tr>
-</table>
+| Plot 3 given | my Plot 3 |
+| ---------------- | -------------|
+| ![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) | ![my plot 3](plot3.png) |
 
 ### Plot 4
 
-<table border=1>
-<tr>
-<th>Plot 4 given</th>
-<th>my Plot 4</th>
-</tr>
-<tr>
-<td>![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png)</td> 
-<td>![my plot 4](plot4.png)</td>
-</tr>
-</table>
+| Plot 4 given | my Plot 4 |
+| ---------------- | -------------|
+| ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) | ![my plot 4](plot4.png) |
 
