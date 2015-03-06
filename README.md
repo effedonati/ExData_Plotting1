@@ -3,7 +3,7 @@
 
 This assignment is the first project of Coursera's Exploratory Data Analysis
 course (Johns Hopkins University).
-it uses data from the "Individual household
+It uses data from the "Individual household
 electric power consumption Data Set" (from
 <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>).
@@ -74,16 +74,9 @@ Below are the original plot images given (on the left) and my plots (on the righ
 
 ### Plot 1
 
-<table border=1>
-<tr>
-<th>Plot 1 given</th>
-<th>my Plot 1</th>
-</tr>
-<tr>
-<td>![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png)</td>
-<td>![my plot 1](plot1.png)</td>
-</tr>
-</table>
+| Plot 1 given | my Plot 1 |
+| ---------------- | -------------|
+| ![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) | ![my plot 1](plot1.png) |
 
 ### Plot 2
 
