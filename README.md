@@ -65,12 +65,12 @@ The main function <b>plotX</b>(X=1,2,3,4) call read_dataset() and make the plot.
 
 ### plotX USAGE
 * <b>plotX()</b>  load the data,make the plot to  plotX.png file;
-* <b>plotX(FALSE)</b> or <b>plotX(FALSE)</b>  same as above, but plot to  screen;
+* <b>plotX(FALSE)</b> or <b>plotX(tofile=FALSE)</b>  same as above, but plot to  screen;
 
 
 ## Results
 
-Below are the original plot images given (on the left) and my plots (on the right)
+Below are the original plot images given (on the left) and my plots (on the right). The image are left to the original size, so you need to scroll to view my plots.
 
 ### Plot 1
 
