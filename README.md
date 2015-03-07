@@ -61,7 +61,9 @@ scripts all have the same structure:
 a service function <b>read_dataset()</b> is defined, wich load the required data
 from the dataset file (only the observations from the two days considered are loaded).
 The Date and Time variables are converted to R date an Time.
-The main function <b>plotX</b>(X=1,2,3,4) call read_dataset() and make the plot.
+The main function <b>plotX</b>(X=1,2,3,4) call read_dataset() and make the plot;
+for convenience read_dataset() is repeated to all four scripts.
+Finally, the png files are the result of the four scripts.
 
 ### plotX USAGE
 * <b>plotX()</b>  load the data,make the plot to  plotX.png file;
